@@ -1,6 +1,6 @@
 Markdown
 <div align="center">
-  <h1>Hi, I'm [Your Name]</h1>
+  <h1>Hi, I'm [Adam]</h1>
   <p><strong>[Your Target Role / Title]</strong> | Focused on continuous learning and practical implementation</p>
   
   <p>
@@ -19,10 +19,7 @@ Markdown
 ## Professional Certifications
 
 | Certification | Issuing Organization | Date Earned | Credential |
-| :--- | :--- | :--- | :--- |
-| **[Certification Name 1]** | [Issuer, e.g., CompTIA / AWS] | [Month Year] | [Verify Link](https://example.com) |
-| **[Certification Name 2]** | [Issuer, e.g., Google / Microsoft] | [Month Year] | [Verify Link](https://example.com) |
-| **[Certification Name 3]** | [Issuer, e.g., Cisco / ISC2] | [Month Year] | [Verify Link](https://example.com) |
+Microsoft 365 Fundamentals (Specialization) — Microsoft / Coursera (Oct 5, 2026) — Verify: [https://coursera.org/verify/specialization/EAT07Q3UEICX](https://coursera.org/verify/specialization/EAT07Q3UEICX)   Work Smarter with Microsoft Excel — Microsoft / Coursera (Oct 5, 2026) — Verify: [https://coursera.org/verify/TLJDSZEPG2DX](https://coursera.org/verify/TLJDSZEPG2DX)   Work Smarter with Microsoft PowerPoint — Microsoft / Coursera (Oct 5, 2026) — Verify: [https://coursera.org/verify/SHYWGCD9R2Y2](https://coursera.org/verify/SHYWGCD9R2Y2)   Work Smarter with Microsoft Word — Microsoft / Coursera (Sep 25, 2026) — Verify: [https://coursera.org/verify/K7FRKML8IEQU](https://coursera.org/verify/K7FRKML8IEQU)   
 
 ## Core Competencies & Tools
 
