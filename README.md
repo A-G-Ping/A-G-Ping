@@ -124,7 +124,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 | **Tech Support Career Guide and Interview Preparation** | IBM | Sep 22, 2026 | [Verify](https://coursera.org/verify/FQ4K57W3XTFK) | 
 | **Introduction to Cybersecurity Essentials** | IBM | Aug 8, 2026 | [Verify](https://coursera.org/verify/AFZI5J309GMF) | 
 
-### IBM Data Analyst Professional Track
+### IBM Data Analyst Track
 
 | Course / Certification Name | Issuer | Date Earned | Credential Link | 
 | ----- | ----- | ----- | ----- | 
@@ -151,7 +151,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 | **Operations and Patient Safety for Healthcare IT Staff** | Johns Hopkins University | Sep 22, 2026 | [Verify](https://coursera.org/verify/99Y8BOD9D1RN) | 
 | **Healthcare Data Security, Privacy, and Compliance** | Johns Hopkins University | Sep 22, 2026 | [Verify](https://coursera.org/verify/P6W8PI6TJTBP) | 
 
-### Microsoft 365 Fundamentals Specialization Track
+### Microsoft 365 Fundamentals Track
 
 | Course / Certification Name | Issuer | Date Earned | Credential Link | 
 | ----- | ----- | ----- | ----- | 
