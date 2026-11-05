@@ -22,6 +22,8 @@ Microsoft 365 Fundamentals (Specialization) — Microsoft / Coursera (Oct 5, 202
 Work Smarter with Microsoft Excel — Microsoft / Coursera (Oct 5, 2026) — Verify: [https://coursera.org/verify/TLJDSZEPG2DX](https://coursera.org/verify/TLJDSZEPG2DX)   
 Work Smarter with Microsoft PowerPoint — Microsoft / Coursera (Oct 5, 2026) — Verify: [https://coursera.org/verify/SHYWGCD9R2Y2](https://coursera.org/verify/SHYWGCD9R2Y2)   
 Work Smarter with Microsoft Word — Microsoft / Coursera (Sep 25, 2026) — Verify: [https://coursera.org/verify/K7FRKML8IEQU](https://coursera.org/verify/K7FRKML8IEQU)   
+Excel and Copilot Fundamentals — Microsoft / Coursera (Sep 24, 2026) — Verify: https://coursera.org/verify/1D88FCYAMWQ7   
+Healthcare IT Support (Specialization) — Johns Hopkins University / Coursera (Sep 22, 2026) — Verify: [https://coursera.org/verify/specialization/XXOXI63MM0AV](https://coursera.org/verify/specialization/XXOXI63MM0AV)   The Critical Role of IT Support Staff in Healthcare — Johns Hopkins University / Coursera (Sep 22, 2026) — Verify: [https://coursera.org/verify/7IEN3VSQ49T2](https://coursera.org/verify/7IEN3VSQ49T2)   Health Information Technology Fundamentals — Johns Hopkins University / Coursera (Sep 22, 2026) — Verify: [https://coursera.org/verify/LEFIOR4EQUIO](https://coursera.org/verify/LEFIOR4EQUIO)   Operations and Patient Safety for Healthcare IT Staff — Johns Hopkins University / Coursera (Sep 22, 2026) — Verify: [https://coursera.org/verify/99Y8BOD9D1RN](https://coursera.org/verify/99Y8BOD9D1RN)   Healthcare Data Security, Privacy, and Compliance — Johns Hopkins University / Coursera (Sep 22, 2026) — Verify: [https://coursera.org/verify/P6W8PI6TJTBP](https://coursera.org/verify/P6W8PI6TJTBP)   
 
 ## Core Competencies & Tools
 
