@@ -124,6 +124,8 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 | **Tech Support Career Guide and Interview Preparation** | IBM | Sep 22, 2026 | [Verify](https://coursera.org/verify/FQ4K57W3XTFK) | 
 | **Introduction to Cybersecurity Essentials** | IBM | Aug 8, 2026 | [Verify](https://coursera.org/verify/AFZI5J309GMF) | 
 
+### IBM Data Analyst Professional Track
+
 | Course / Certification Name | Issuer | Date Earned | Credential Link | 
 | ----- | ----- | ----- | ----- | 
 | **IBM Data Analyst Professional Certificate** | IBM | Sep 3, 2026 | [Verify](https://coursera.org/verify/professional-cert/SPLV56X4V8D4) | 
@@ -139,6 +141,8 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 | **Excel Basics for Data Analysis** | IBM | Aug 14, 2026 | [Verify](https://coursera.org/verify/CX5RFEJISH1Z) | 
 | **Introduction to Data Analytics** | IBM | Aug 10, 2026 | [Verify](https://coursera.org/verify/INNYB6PZ4TUU) | 
 
+### Healthcare IT Support Track
+
 | Course / Certification Name | Issuer | Date Earned | Credential Link | 
 | ----- | ----- | ----- | ----- | 
 | **Healthcare IT Support Specialization** | Johns Hopkins University | Sep 22, 2026 | [Verify](https://coursera.org/verify/specialization/XXOXI63MM0AV) | 
@@ -146,6 +150,8 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 | **Health Information Technology Fundamentals** | Johns Hopkins University | Sep 22, 2026 | [Verify](https://coursera.org/verify/LEFIOR4EQUIO) | 
 | **Operations and Patient Safety for Healthcare IT Staff** | Johns Hopkins University | Sep 22, 2026 | [Verify](https://coursera.org/verify/99Y8BOD9D1RN) | 
 | **Healthcare Data Security, Privacy, and Compliance** | Johns Hopkins University | Sep 22, 2026 | [Verify](https://coursera.org/verify/P6W8PI6TJTBP) | 
+
+### Microsoft 365 Fundamentals Specialization Track
 
 | Course / Certification Name | Issuer | Date Earned | Credential Link | 
 | ----- | ----- | ----- | ----- | 
