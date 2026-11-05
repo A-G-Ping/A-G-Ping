@@ -84,7 +84,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 | **Threat Investigation** | Cisco | Oct 13, 2026 | [Verify](https://coursera.org/verify/XGFAVYM1H00X) | 
 | **Threat Response** | Cisco | Oct 13, 2026 | [Verify](https://coursera.org/verify/XJ6BNFPM070A) | 
 
-### IBM Cybersecurity & Architecture Track
+### IBM Cybersecurity Analyst
 
 | Course / Certification Name | Issuer | Date Earned | Credential Link | 
 | ----- | ----- | ----- | ----- | 
