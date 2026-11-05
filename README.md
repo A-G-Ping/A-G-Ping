@@ -102,7 +102,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 
 | Course / Certification Name | Issuer | Date Earned | Credential Link | 
 | ----- | ----- | ----- | ----- |
-|**Behavioral Base Safety** | Coursera | Sep 1, 2026 | [Verify Credential](https://coursera.org/verify/T6UE0KNAC22N)|  
+|**Behavioral Base Safety** | Coursera | Sep 1, 2026 | [Verify](https://coursera.org/verify/T6UE0KNAC22N) |
 
 ### Google IT Support Track
 
