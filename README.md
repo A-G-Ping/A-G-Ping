@@ -18,7 +18,6 @@ Markdown
 
 ## Professional Certifications
 
-| Certification | Issuing Organization | Date Earned | Credential |
 Microsoft 365 Fundamentals (Specialization) — Microsoft / Coursera (Oct 5, 2026) — Verify: [https://coursera.org/verify/specialization/EAT07Q3UEICX](https://coursera.org/verify/specialization/EAT07Q3UEICX)   
 Work Smarter with Microsoft Excel — Microsoft / Coursera (Oct 5, 2026) — Verify: [https://coursera.org/verify/TLJDSZEPG2DX](https://coursera.org/verify/TLJDSZEPG2DX)   
 Work Smarter with Microsoft PowerPoint — Microsoft / Coursera (Oct 5, 2026) — Verify: [https://coursera.org/verify/SHYWGCD9R2Y2](https://coursera.org/verify/SHYWGCD9R2Y2)   
