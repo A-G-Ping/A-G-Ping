@@ -1,7 +1,7 @@
 Markdown
 <div align="center">
   <h1>Hi, I'm [Adam]</h1>
-  <p><strong>[Your Target Role / Title]</strong> | Focused on continuous learning and practical implementation</p>
+  <p><strong>[Cybersecurity]</strong> | Focused on continuous learning and practical implementation</p>
   
   <p>
     <a href="https://linkedin.com/in/your-username">
