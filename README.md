@@ -89,7 +89,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 | Course / Certification Name | Issuer | Date Earned | Credential Link | 
 | ----- | ----- | ----- | ----- | 
 | **Generative AI: Boost Your Cybersecurity Career** | IBM | Nov 5, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/L3DC52J9FYH0) |
-| **Cybersecurity Architecture** | IBM | Nov 5, 2026 | [Verify](https://coursera.org/verify/UG2DOFS5PHM3) | 
+| **Cybersecurity Architecture** | IBM | Nov 5, 2026 | [Verify](https://www.coursera.org/account/accomplishments/certificate/UG2DQFS5PHM3) | 
 | **Cybersecurity Compliance Framework, Standards & Regulations** | IBM | Nov 5, 2026 | [Verify](https://coursera.org/verify/ESO0L3TM9J9R) | 
 | **Cybersecurity Job Search, Resume, and Interview Prep** | IBM | Nov 5, 2026 | [Verify](https://coursera.org/verify/990ZKV7C8ZJE) | 
 | **Database Essentials and Vulnerabilities** | IBM | Nov 4, 2026 | [Verify](https://coursera.org/verify/HGORB9IXR3N5) | 
