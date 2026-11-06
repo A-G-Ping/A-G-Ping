@@ -98,6 +98,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 
 | Course / Certification Name | Issuer | Date Earned | Credential Link | 
 | ----- | ----- | ----- | ----- | 
+| **Incident Response and Digital Forensics** | IBM | Nov 6, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/HT3O5QVLUHEG) |
 | **Cybersecurity Case Studies and Capstone Project** | IBM | Nov 6, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/RN9P3DJTRR62) |
 | **Penetration Testing, Threat Hunting, and Cryptography** | IBM | Nov 6, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/VM2UVB9WTBN9) |
 | **Generative AI: Boost Your Cybersecurity Career** | IBM | Nov 5, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/L3DC52J9FYH0) |
