@@ -54,6 +54,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 
 | Credential Title | Issuing Organization | Type | Date Earned | Verification | 
 | ----- | ----- | ----- | ----- | ----- | 
+| **IBM Cybersecurity Analyst** | IBM | Specialization Certificate (14 Courses) | Nov 6, 2026 | [Verify Credential](https://www.coursera.org/account/accomplishments/specialization/M2NPDTWIMX1G) | 
 | **Google IT Support** | Google | Professional Certificate (5 Courses) | Oct 26, 2026 | [Verify Credential](https://coursera.org/verify/professional-cert/U7CLF0J33TAA) | 
 | **Cybersecurity Operations Fundamentals** | Cisco | Specialization (7 Courses) | Oct 13, 2026 | [Verify Credential](https://coursera.org/verify/specialization/77MUJQ677KX0) | 
 | **Google Cybersecurity** | Google | Professional Certificate (9 Courses) | Oct 6, 2026 | [Verify Credential](https://coursera.org/verify/professional-cert/172ERZKTX8PT) | 
@@ -98,6 +99,8 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 
 | Course / Certification Name | Issuer | Date Earned | Credential Link | 
 | ----- | ----- | ----- | ----- | 
+| **IBM Cybersecurity Analyst** | IBM | Nov 6, 2026 | [Verify](https://www.coursera.org/account/accomplishments/specialization/M2NPDTWIMX1G) |
+| **Cybersecurity Assessment: CompTIA Security+ & CYSA+** | IBM | Nov 6, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/OZXNKTI1J7RP) |
 | **Incident Response and Digital Forensics** | IBM | Nov 6, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/HT3O5QVLUHEG) |
 | **Cybersecurity Case Studies and Capstone Project** | IBM | Nov 6, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/RN9P3DJTRR62) |
 | **Penetration Testing, Threat Hunting, and Cryptography** | IBM | Nov 6, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/VM2UVB9WTBN9) |
