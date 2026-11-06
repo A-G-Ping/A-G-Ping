@@ -88,6 +88,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 
 | Course / Certification Name | Issuer | Date Earned | Credential Link | 
 | ----- | ----- | ----- | ----- | 
+| **Penetration Testing, Threat Hunting, and Cryptography** | IBM | Nov 6, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/VM2UVB9WTBN9) |
 | **Generative AI: Boost Your Cybersecurity Career** | IBM | Nov 5, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/L3DC52J9FYH0) |
 | **Cybersecurity Architecture** | IBM | Nov 5, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/UG2DQFS5PHM3) | 
 | **Cybersecurity Compliance Framework, Standards & Regulations** | IBM | Nov 5, 2026 | [Verify](https://coursera.org/verify/ESO0L3TM9J9R) | 
