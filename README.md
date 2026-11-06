@@ -24,29 +24,29 @@
 ### 🛠️ Skills & Competencies
 
 #### 💻 AI, Programming & Data Science
-* **AI & Machine Learning:** AI Ethics, Artificial Intelligence, ChatGPT, Generative AI, Large Language Models (LLMs), Scikit-learn, SciPy
-* **Languages, Libraries & Notebooks:** Bokeh, Folium, Jupyter Lab & Jupyter Notebook, Matplotlib, NumPy, Pandas, Python, Scripting, Seaborn, SQL
-* **Data Analytics & Visualization:** Charts, Dashboards, Data Analysis, Data Analytics, Data Augmentation, Data Generation, Data Science, Data Sources, Data Visualization (DataViz), Data Wrangling, IBM Cognos Analytics, Maps, Pivot Tables, Plots
-* **Databases & Storage:** CouchDB, Data Lake, Data Protection, Data Recovery, Data Warehouse, Database Auditing Models, Database Injection Vulnerabilities, Database Management, Database Security, Database Types, Db2, File Systems, MongoDB, NoSQL, Oracle, Querying Databases, Relational Databases (RDBMS), Storage
+- **AI & Machine Learning:** AI Ethics, Artificial Intelligence, ChatGPT, Generative AI, Large Language Models (LLMs), Scikit-learn, SciPy
+- **Languages, Libraries & Notebooks:** Bokeh, Folium, Jupyter Lab & Jupyter Notebook, Matplotlib, NumPy, Pandas, Python, Scripting, Seaborn, SQL
+- **Data Analytics & Visualization:** Charts, Dashboards, Data Analysis, Data Analytics, Data Augmentation, Data Generation, Data Science, Data Sources, Data Visualization (DataViz), Data Wrangling, IBM Cognos Analytics, Maps, Pivot Tables, Plots
+- **Databases & Storage:** CouchDB, Data Lake, Data Protection, Data Recovery, Data Warehouse, Database Auditing Models, Database Injection Vulnerabilities, Database Management, Database Security, Database Types, Db2, File Systems, MongoDB, NoSQL, Oracle, Querying Databases, Relational Databases (RDBMS), Storage
 
 #### 🔒 Cybersecurity, Governance & Risk
-* **Offensive & Defensive Security:** Breaches, Containment, Cowrie, Cyber Attacks, Defensive Security Techniques, Digital Evidence, Digital Forensics, EDR, Eradication and Recovery, Exploit Development, Exploits, Exposed Data, Malware, Network Defense Tactics, Offensive Security Techniques, Packet Sniffing, Penetration Testing, Phishing, Post-incident Activities, PTES (Penetration Testing Execution Standard), Ransomware, Security Analyst, SIEM, SOC, Social Engineering, Threat Detection and Mitigation, Threat Hunting, Threat Intelligence, Threat Management, Vulnerability Assessment, Vulnerability Scanning
-* **Cryptography, Auth & Privacy:** Authentication, Authorization, Availability, Confidentiality, Cryptographic Algorithms, Cryptographic Protocols, Data Security, Encryption & Encryption Methods, Identity and Access Management (IAM), Information Privacy, Integrity, Key Management, Multi-Factor Authentication (MFA), Password Management & Policies, Secure Data Transmission
-* **Security Domains & Hardening:** Application Security, Cybersecurity Controls, Cybersecurity Fundamentals, Cybersecurity Threats, Device Security, Email Security, Hardening Devices, IBM Security, Incident Response, Incident Response Automation, Incident Response Preparation, Information Security (INFOSEC), Network Security, Physical Threats and Controls, Security Audits, Security Breaches, Security Frameworks, System Hardening
-* **Frameworks, Compliance & Risk:** COBIT, Laws and Regulations, NICE Framework, NIST & SANS Cybersecurity Frameworks, OWASP (Open Web Application Security Project), Risk Assessment, Risk Management
+- **Offensive & Defensive Security:** Breaches, Containment, Cowrie, Cyber Attacks, Defensive Security Techniques, Digital Evidence, Digital Forensics, EDR, Eradication and Recovery, Exploit Development, Exploits, Exposed Data, Malware, Network Defense Tactics, Offensive Security Techniques, Packet Sniffing, Penetration Testing, Phishing, Post-incident Activities, PTES (Penetration Testing Execution Standard), Ransomware, Security Analyst, SIEM, SOC, Social Engineering, Threat Detection and Mitigation, Threat Hunting, Threat Intelligence, Threat Management, Vulnerability Assessment, Vulnerability Scanning
+- **Cryptography, Auth & Privacy:** Authentication, Authorization, Availability, Confidentiality, Cryptographic Algorithms, Cryptographic Protocols, Data Security, Encryption & Encryption Methods, Identity and Access Management (IAM), Information Privacy, Integrity, Key Management, Multi-Factor Authentication (MFA), Password Management & Policies, Secure Data Transmission
+- **Security Domains & Hardening:** Application Security, Cybersecurity Controls, Cybersecurity Fundamentals, Cybersecurity Threats, Device Security, Email Security, Hardening Devices, IBM Security, Incident Response, Incident Response Automation, Incident Response Preparation, Information Security (INFOSEC), Network Security, Physical Threats and Controls, Security Audits, Security Breaches, Security Frameworks, System Hardening
+- **Frameworks, Compliance & Risk:** COBIT, Laws and Regulations, NICE Framework, NIST & SANS Cybersecurity Frameworks, OWASP (Open Web Application Security Project), Risk Assessment, Risk Management
 
 #### 🌐 Networking, Cloud & Systems
-* **Networking:** Computer Networks, DHCP, DNS, IEEE, IP Addressing, Network Address Translation (NAT), Network Architecture, Networking Fundamentals, Networking Hardware, Networking Setup, OSI Models, Routing, Switches, TCP/IP, Wireless Networks
-* **Cloud, Virtualization & DevOps:** Cloud Computing, Cloud Native, Cloud Storage, Containers, DevOps, Hybrid Cloud, IaaS, IBM Cloud, Multicloud, PaaS, SaaS, Virtualization
-* **Operating Systems & Hardware:** Computer Literacy, Hardware & Hardware Setup, Information Technology, IT Foundations & Fundamentals, IT Infrastructure, Linux, macOS, Microsoft Windows, Operating Systems, Systems Administration, User Profiles, Validation
+- **Networking:** Computer Networks, DHCP, DNS, IEEE, IP Addressing, Network Address Translation (NAT), Network Architecture, Networking Fundamentals, Networking Hardware, Networking Setup, OSI Models, Routing, Switches, TCP/IP, Wireless Networks
+- **Cloud, Virtualization & DevOps:** Cloud Computing, Cloud Native, Cloud Storage, Containers, DevOps, Hybrid Cloud, IaaS, IBM Cloud, Multicloud, PaaS, SaaS, Virtualization
+- **Operating Systems & Hardware:** Computer Literacy, Hardware & Hardware Setup, Information Technology, IT Foundations & Fundamentals, IT Infrastructure, Linux, macOS, Microsoft Windows, Operating Systems, Systems Administration, User Profiles, Validation
 
 #### 🧰 IT Support, Software & Professional Development
-* **IT Service Management & Support:** Customer Service, Escalation Matrix, HelpDesk, Information Technology (IT) Support, ITIL, IT Service Management (ITSM) & Frameworks, Remote Support, Service Desk, Service Level Agreements (SLA), Spam Management, Support Tiers, Support Tools, Technical Support, Ticketing Systems, Troubleshooting
-* **Productivity & Software Tools:** Documentation, Microsoft 365 Fundamentals, Microsoft Excel, Microsoft PowerPoint, Software Configuration & Setup, Spreadsheets, Web Browsers
-* **Certifications & Career Readiness:** Architect, Behavioral Questions, Career Development, Communication Skills, CompTIA Certifications, CompTIA CySA+, CompTIA Security+, Cover Letters, Cybersecurity & IT Careers, Developer, Elevator Pitch, Exam Readiness, Hands-on Capstone Project, IBM New Collar, Interview Preparation, ISC2 Certifications, Job Search, Portfolio Development, Presentation Skills, Resume Writing
+- **IT Service Management & Support:** Customer Service, Escalation Matrix, HelpDesk, Information Technology (IT) Support, ITIL, IT Service Management (ITSM) & Frameworks, Remote Support, Service Desk, Service Level Agreements (SLA), Spam Management, Support Tiers, Support Tools, Technical Support, Ticketing Systems, Troubleshooting
+- **Productivity & Software Tools:** Documentation, Microsoft 365 Fundamentals, Microsoft Excel, Microsoft PowerPoint, Software Configuration & Setup, Spreadsheets, Web Browsers
+- **Certifications & Career Readiness:** Architect, Behavioral Questions, Career Development, Communication Skills, CompTIA Certifications, CompTIA CySA+, CompTIA Security+, Cover Letters, Cybersecurity & IT Careers, Developer, Elevator Pitch, Exam Readiness, Hands-on Capstone Project, IBM New Collar, Interview Preparation, ISC2 Certifications, Job Search, Portfolio Development, Presentation Skills, Resume Writing
 
 #### 🏷️ Skill & Credential Identifiers (PWID)
-* PWID-B0126300, PWID-B0163400, PWID-B0179000, PWID-B0197300, PWID-B0216100, PWID-B0241000, PWID-B0255000, PWID-B0270400, PWID-B0320000, PWID-B0381400, PWID-B0394900, PWID-B0421400, PWID-B0449800, PWID-B0479000, PWID-B0519300, PWID-B0532800, PWID-B0533400, PWID-B0600000, PWID-B0609900, PWID-B0918800, PWID-B0919600, PWID-B0926700, PWID-B0928400, PWID-B0928600, PWID-B0931500, PWID-B0941000, PWID-B0941400, PWID-B0953200, PWID-B0966400, PWID-B0967100, PWID-B0968800, PWID-B0968900, PWID-B0970000, PWID-B0970600, PWID-B1055900
+- PWID-B0126300, PWID-B0163400, PWID-B0179000, PWID-B0197300, PWID-B0216100, PWID-B0241000, PWID-B0255000, PWID-B0270400, PWID-B0320000, PWID-B0381400, PWID-B0394900, PWID-B0421400, PWID-B0449800, PWID-B0479000, PWID-B0519300, PWID-B0532800, PWID-B0533400, PWID-B0600000, PWID-B0609900, PWID-B0918800, PWID-B0919600, PWID-B0926700, PWID-B0928400, PWID-B0928600, PWID-B0931500, PWID-B0941000, PWID-B0941400, PWID-B0953200, PWID-B0966400, PWID-B0967100, PWID-B0968800, PWID-B0968900, PWID-B0970000, PWID-B0970600, PWID-B1055900
 
 ## 🏆 Major Professional Certificates & Specializations
 
@@ -119,7 +119,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 
 | Course / Certification Name | Issuer | Date Earned | Credential Link | 
 | ----- | ----- | ----- | ----- |
-|**Behavioral Base Safety** | Coursera | Sep 1, 2026 | [Verify](https://coursera.org/verify/T6UE0KNAC22N) |
+| **Behavioral Base Safety** | Coursera | Sep 1, 2026 | [Verify](https://coursera.org/verify/T6UE0KNAC22N) |
 
 ### Google IT Support Track
 
@@ -183,6 +183,16 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 | **Work Smarter with Microsoft PowerPoint** | Microsoft | Oct 5, 2026 | [Verify](https://coursera.org/verify/SHYWGCD9R2Y2) | 
 | **Work Smarter with Microsoft Word** | Microsoft | Sep 25, 2026 | [Verify](https://coursera.org/verify/K7FRKML8IEQU) | 
 | **Excel and Copilot Fundamentals** | Microsoft | Sep 24, 2026 | [Verify](https://coursera.org/verify/1D88FCYAMWQ7) | 
+
+## 🎓 Education, Academic Awards & Foundational Credentials
+
+| Credential / Award Title | Issuing Institution | Date Earned | Document Link |
+| ----- | ----- | ----- | ----- |
+| **CLI Entrance Award** | Christian Leaders Institute | 2nd Semester 2023 | [View Certificate](<./Christian Leaders Institute.pdf>) |
+| **Business Computer Applications Certificate** | T. H. Pickens Technical Center | May 30, 2001 | [View Certificate](./IMG_9760.jpeg) |
+| **Program Award of Excellence: Business Computer Applications** | Pickens Tech | May 16, 2001 | [View Award](./IMG_9761.jpeg) |
+| **High School Equivalency Diploma** | State of Colorado Department of Education | June 29, 2000 | [View Diploma](./IMG_9758.jpeg) |
+| **Official Report of Test Results (GED)** | American Council on Education / GEDTS | June 24, 2000 | [View Report](./IMG_9757.jpeg) |
 
 ## 📊 GitHub Activity & Stats
 
