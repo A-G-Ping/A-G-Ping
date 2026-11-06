@@ -23,20 +23,30 @@
 
 ### 🛠️ Skills & Competencies
 
-#### 💻 Programming, Data & Analytics
-* **Languages & Libraries:** Python, SQL, Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn, Bokeh
-* **Data & Databases:** RDBMS, Relational Database, Database Management, Data Architecture, Data Warehouse, Data Lake, NoSQL, MongoDB, Oracle, IBM Cloud, IBM Cognos, Cognos Analytics, Db2
-* **Data Concepts & Tools:** Data Analysis, Data Analyst, Data Analytics, Data Science, Data Security, Data Visualization (DataViz), Data Wrangling, Querying Databases, Pivot Tables, Dashboards, Data Augmentation, Data Generation, Data Source
+#### 💻 AI, Programming & Data Science
+* **AI & Machine Learning:** AI Ethics, Artificial Intelligence, ChatGPT, Generative AI, LLMs, Large Language Model, Scikit-learn, SciPy
+* **Languages, Libraries & Notebooks:** And The Jupyter Notebook, Bokeh, Folium, Jupyter Lab Notebook, Jupyter Notebook, Matplotlib, NumPy, Pandas, Python, SQL, Seaborn
+* **Data Analytics & Visualization:** Chart, Cognos Analytics, Cognos Anlytics, Dashboard, Dashboards, Data Analysis, Data Analyst, Data Analytics, Data Augmentation, Data Generation, Data Science, Data Source, Data Visualization, Data Visualization (DataViz), Data Wrangling, IBM Cognos, IBM Cognos Analytics, Map, Pivot Tables, Plot
+* **Databases & Storage:** Couch, Data Lake, Data Warehouse, Database, Database Auditing Models, Database Injection Vulnerabilities, Database Management, Database Security, Database Types, Db2, File Systems, MongoDB, NoSQL, Oracle, Querying Databases, RDBMS, Relational Database, Storage
 
-#### 🔒 Cybersecurity & IT Infrastructure
-* **Security & Governance:** Cybersecurity, Cybersecurity Fundamentals, Cybersecurity Threats, Application Security, Network Security, Device Security, Database Security, Email Security, Risk Management, Incident Response, Threat Detection, Malware, OSWASP, NIST, NICE Framework, Information Security (INFOSEC), Identity And Access Management (IAM), Security Audits, Security Breaches, Security Frameworks, Security Fundamentals, Security Threats, Vulnerability, Attacks, Exploits, Database Injection Vulnerabilities, Database Auditing Models, Physical Threats and Controls, Password Management, Password Policies, Encryption
-* **Networking & Systems:** Networking, Networking Fundamentals, Networking Hardware, Networking Setup, Network Architecture, Network Address Translation, TCP/IP, DNS, DHCP, Routing, Switches, Wireless Networks, Virtualization, Linux, Introduction To Linux, Windows, Microsoft Windows, macOS, Systems Administration, Operating Systems, OSI Models, File Systems
-* **Cloud & DevOps:** Cloud, Cloud Computing, Cloud Native, Cloud Storage, Multicloud, DevOps, Container, Containers, IaaS, PaaS, Virtualization
+#### 🔒 Cybersecurity, Governance & Risk
+* **Offensive & Defensive Security:** Attacks, Defensive Security Techniques, EDR, Exploit Development, Exploits, Malware, Offensive Security Techniques, Packet Sniffing, Penetration Testing, PTES (Penetration Testing Execution Standard), SIEM, SOC, Social Engineering, Threat Detection, Threat Detection and Mitigation, Threat Hunting, Vulnerability Assessment
+* **Cryptography, Auth & Privacy:** Authentication, Authorization, Availability, Confidentiality, Cryptographic Algorithms, Cryptographic Protocols, Data Security, Encryption, Encryption Methods, Identity And Access Management (IAM), Information Privacy, Integrity, Key Management, Multi-Factor Authentication (MFA), Password Management, Password Policies, Secure Data Transmission
+* **Security Domains & Hardening:** Application Security, Cybersecurity, Cybersecurity Careers, Cybersecurity Controls, Cybersecurity Fundamentals, Cybersecurity Threats, Device Security, Email Security, Hardening Devices, Incident Response, Information Security (INFOSEC), Introduction To Cybersecurity, Network Security, Physical Threats and Controls, Security, Security Audits, Security Breaches, Security Frameworks, Security Fundamentals, Security Threats, System Hardening
+* **Frameworks, Compliance & Risk:** COBIT, Laws And Regulations, NICE Framework, NIST, OSWASP, OWASP (Open Web Application Security Project), Risk Assessment, Risk Management
 
-#### 🧰 Support, Operations & Professional
-* **IT Service Management:** Technical Support, Technician, HelpDesk, Service Desk, Ticketing Systems, Troubleshooting, IT Service Management, ITIL, ITSM, ITSM Frameworks, Remote Support, Support Tiers, Support Tools, Escalation Matrix, SLA, Service Level Agreements, Spam Management
-* **Software & Tools:** Microsoft 365, Microsoft 365 Fundamentals, Microsoft Excel, Microsoft PowerPoint, Jupyter Notebook, Jupyter Lab Notebook, Excel, Folium, Tableau/Dashboards, Web Browsers, Software Configuration, Software Setup, Spreadsheet, Spreadsheets
-* **Foundational & Professional:** IT Foundations, IT Fundamentals, IT Infrastructure, Computer Literacy, Computer Networks, Hardware, Hardware Setup, Hardening Devices, Administration, Architect, Developer, Presentation Skills, Presentation, Communication, Communication Skills, Elevator Pitch, Career Development, IT Career, Job Search, Interview, Interview Preparation, Resume, Resume Writing, Cover Letter, Portfolio Development, Customer Service, Documentation
+#### 🌐 Networking, Cloud & Systems
+* **Networking:** Computer Networks, DHCP, DNS, IEEE, IP Adressing, Network Address Translation, Network Architecture, Networking, Networking Fundamentals, Networking Hardware, Networking Setup, OSI Models, Routing, Switches, TCP/IP, Wireless Networks
+* **Cloud, Virtualization & DevOps:** Cloud, Cloud Computing, Cloud Native, Cloud Storage, Container, Containers, DevOps, Hybrid, IaaS, IBM Cloud, Multicloud, PaaS, SaaS, Virtualization
+* **Operating Systems & Hardware:** Administration, Computer Literacy, Hardware, Hardware Setup, Information Technology, Introduction To Computers, Introduction To Linux, IT Foundations, IT Fundamentals, IT Infrastructure, Linux, macOS, Microsoft Windows, Operating Systems, Systems Administration, User Profiles, Validation, Windows
+
+#### 🧰 IT Support, Software & Professional Development
+* **IT Service Management & Support:** Customer Service, Escalation Matrix, HelpDesk, Information Technology (IT) Support, IT Service Management, ITIL, ITSM, ITSM Frameworks, Remote Support, Service Desk, Service Level Agreements, SLA, Spam Management, Support Tiers, Support Tools, Technical Support, Technician, Ticketing Systems, Troubleshooting
+* **Productivity & Software Tools:** Documentation, Excel, Microsoft 365 Fundamentals, Microsoft Excel, Microsoft PowerPoint, Software Configuration, Software Setup, Spreadsheet, Spreadsheets, Web Browsers
+* **Certifications & Career Readiness:** Architect, Behavioral Questions, Career Development, Certification, Communication, Communication Skills, CompTIA, CompTIA Certifications, Cover Letter, Developer, Elevator Pitch, Hands-on Capstone Project, Interview, Interview Preparation, ISC2 Certifications, IT Career, Job Search, Portfolio Development, Presentation, Presentation Skills, Resume, Resume Writing
+
+#### 🏷️ Skill & Credential Identifiers (PWID)
+* PWID-B0126300, PWID-B0163400, PWID-B0179000, PWID-B0197300, PWID-B0216100, PWID-B0241000, PWID-B0255000, PWID-B0270400, PWID-B0320000, PWID-B0381400, PWID-B0394900, PWID-B0449800, PWID-B0479000, PWID-B0519300, PWID-B0532800, PWID-B0533400, PWID-B0600000, PWID-B0609900, PWID-B0918800, PWID-B0919600, PWID-B0926700, PWID-B0928400, PWID-B0928600, PWID-B0931500, PWID-B0941000, PWID-B0941400, PWID-B0953200, PWID-B0966400, PWID-B0968800, PWID-B0970600, PWID-B1055900
 * 
 ## 🏆 Major Professional Certificates & Specializations
 
