@@ -191,7 +191,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 | **CLI Entrance Award** | Christian Leaders Institute | 2nd Semester 2023 | [View Certificate](<./Christian Leaders Institute.pdf>) |
 | **Business Computer Applications Certificate** | T. H. Pickens Technical Center | May 30, 2001 | [View Certificate](./IMG_9760.jpeg) |
 | **Program Award of Excellence: Business Computer Applications** | Pickens Tech | May 16, 2001 | [View Award](./IMG_9761.jpeg) |
-| **High School Equivalency Diploma** | State of Colorado Department of Education | June 29, 2000 | [View Diploma](./IMG_9758.jpeg) |
+| **High School Equivalency Diploma** | State of Colorado Department of Education | June 29, 2000 | [View Diploma](./IMG_9758.jpg) |
 | **Official Report of Test Results (GED)** | American Council on Education / GEDTS | June 24, 2000 | [View Report](./IMG_9757.jpeg) |
 
 ## 📊 GitHub Activity & Stats
