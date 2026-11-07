@@ -54,6 +54,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 
 | Credential Title | Issuing Organization | Type | Date Earned | Verification | 
 | ----- | ----- | ----- | ----- | ----- | 
+| **IBM AI Foundations for Everyone Specialization** | IBM | Professional Certificate (4 Courses) | Nov 7, 2026 | [Verify Credential](https://www.coursera.org/account/accomplishments/specialization/300CXVWJBAC6) | 
 | **IBM Cybersecurity Analyst** | IBM | Specialization Certificate (14 Courses) | Nov 6, 2026 | [Verify Credential](https://www.coursera.org/account/accomplishments/specialization/M2NPDTWIMX1G) | 
 | **Google IT Support** | Google | Professional Certificate (5 Courses) | Oct 26, 2026 | [Verify Credential](https://coursera.org/verify/professional-cert/U7CLF0J33TAA) | 
 | **Cybersecurity Operations Fundamentals** | Cisco | Specialization (7 Courses) | Oct 13, 2026 | [Verify Credential](https://coursera.org/verify/specialization/77MUJQ677KX0) | 
@@ -62,6 +63,9 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 | **IBM IT Support** | IBM | Professional Certificate (9 Courses) | Sep 22, 2026 | [Verify Credential](https://coursera.org/verify/professional-cert/0L8DLHBTAF82) | 
 | **Healthcare IT Support** | Johns Hopkins University | Specialization (4 Courses) | Sep 22, 2026 | [Verify Credential](https://coursera.org/verify/specialization/XXOXI63MM0AV) | 
 | **IBM Data Analyst** | IBM | Professional Certificate (11 Courses) | Sep 3, 2026 | [Verify Credential](https://coursera.org/verify/professional-cert/SPLV56X4V8D4) | 
+
+
+
 
 ## 📜 Complete Course Certifications by Domain
 
@@ -168,9 +172,11 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 
 | Course / Certification Name | Issuer | Date Earned | Credential Link | 
 | ----- | ----- | ----- | ----- | 
+| **IBM AI Foundations for Everyone Specialization** | IBM | Nov 7, 2026 | [Verify](https://www.coursera.org/account/accomplishments/specialization/300CXVWJBAC6) | 
 | **AI Foundations: How Artificial Intelligence Works** | IBM | Nov 7, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/6RS1VWGY7YBT) | 
 | **Generative AI Essentials: From Fundamentals to Real-World Applications** | IBM | Nov 7, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/0E4XNI8SAEAN) | 
 | **Prompt Engineering for Generative AI: Build Better AI Prompts** | IBM | Nov 7, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/FU0S2CX47BHF) | 
+| **Building AI Powered Chatbots Without Programming** | IBM | Nov 7, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/SWWIBPOVWR02) | 
 
 ### Healthcare IT Support Track
 
