@@ -191,10 +191,11 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 | **Work Smarter with Microsoft Word** | Microsoft | Sep 25, 2026 | [Verify](https://coursera.org/verify/K7FRKML8IEQU) | 
 
 
-### Microsoft Excel Professional Certificate
+### Microsoft Excel Professional Certificate Track
 | Course / Certification Name | Issuer | Date Earned | Credential Link | 
 | ----- | ----- | ----- | ----- | 
 | **Excel and Copilot Fundamentals** | Microsoft | Sep 24, 2026 | [Verify](https://coursera.org/verify/1D88FCYAMWQ7) | 
+| **Data Cleaning & Processing with Copilot in Excel** | Microsoft | Nov 27, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/CHI921G2GELE) | 
 | **Advanced Data Analysis & Visualization with Copilot in Excel** | Microsoft | Nov 26, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/1AWLS49HBAEV) | 
 
 ## 🎓 Education, Academic Awards & Foundational Credentials
