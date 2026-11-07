@@ -164,12 +164,13 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 | **Excel Basics for Data Analysis** | IBM | Aug 14, 2026 | [Verify](https://coursera.org/verify/CX5RFEJISH1Z) | 
 | **Introduction to Data Analytics** | IBM | Aug 10, 2026 | [Verify](https://coursera.org/verify/INNYB6PZ4TUU) | 
 
-### IBM AI Foundations for Everyone 
+### IBM AI Foundations for Everyone Track
 
 | Course / Certification Name | Issuer | Date Earned | Credential Link | 
 | ----- | ----- | ----- | ----- | 
 | **AI Foundations: How Artificial Intelligence Works** | IBM | Nov 7, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/6RS1VWGY7YBT) | 
 | **Generative AI Essentials: From Fundamentals to Real-World Applications** | IBM | Nov 7, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/0E4XNI8SAEAN) | 
+| **Prompt Engineering for Generative AI: Build Better AI Prompts** | IBM | Nov 7, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/FU0S2CX47BHF) | 
 
 ### Healthcare IT Support Track
 
