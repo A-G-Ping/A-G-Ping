@@ -168,8 +168,8 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 
 | Course / Certification Name | Issuer | Date Earned | Credential Link | 
 | ----- | ----- | ----- | ----- | 
-| **AI Foundations: How Artificial Intelligence Works** | IBM | Nov 6, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/6RS1VWGY7YBT) | 
-| **Generative AI Essentials: From Fundamentals to Real-World Applications** | IBM | Nov 6, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/0E4XNI8SAEAN) | 
+| **AI Foundations: How Artificial Intelligence Works** | IBM | Nov 7, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/6RS1VWGY7YBT) | 
+| **Generative AI Essentials: From Fundamentals to Real-World Applications** | IBM | Nov 7, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/0E4XNI8SAEAN) | 
 
 ### Healthcare IT Support Track
 
