@@ -60,6 +60,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 | **Cybersecurity Operations Fundamentals** | Cisco | Specialization (7 Courses) | Oct 13, 2026 | [Verify Credential](https://coursera.org/verify/specialization/77MUJQ677KX0) | 
 | **Google Cybersecurity** | Google | Professional Certificate (9 Courses) | Oct 6, 2026 | [Verify Credential](https://coursera.org/verify/professional-cert/172ERZKTX8PT) | 
 | **Microsoft 365 Fundamentals** | Microsoft | Specialization (3 Courses) | Oct 5, 2026 | [Verify Credential](https://coursera.org/verify/specialization/EAT07Q3UEICX) | 
+| **Microsoft Excel** | Microsoft | Specialization (4 Courses) | Nov 7, 2026 | [Verify Credential](https://www.coursera.org/account/accomplishments/professional-cert/24CH9L5TGBD8) | 
 | **IBM IT Support** | IBM | Professional Certificate (9 Courses) | Sep 22, 2026 | [Verify Credential](https://coursera.org/verify/professional-cert/0L8DLHBTAF82) | 
 | **Healthcare IT Support** | Johns Hopkins University | Specialization (4 Courses) | Sep 22, 2026 | [Verify Credential](https://coursera.org/verify/specialization/XXOXI63MM0AV) | 
 | **IBM Data Analyst** | IBM | Professional Certificate (11 Courses) | Sep 3, 2026 | [Verify Credential](https://coursera.org/verify/professional-cert/SPLV56X4V8D4) | 
@@ -190,8 +191,10 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 
 | Course / Certification Name | Issuer | Date Earned | Credential Link | 
 | ----- | ----- | ----- | ----- | 
+| **Microsoft Excel** | Microsoft | Nov 7, 2026 | [Verify](https://www.coursera.org/account/accomplishments/professional-cert/24CH9L5TGBD8) | 
 | **Data Cleaning & Processing with Copilot in Excel** | Microsoft | Sep 27, 2026 | [Verify](https://coursera.org/verify/CHI921G2GELE) | 
 | **Advanced Data Analysis & Visualization with Copilot in Excel** | Microsoft | Sep 26, 2026 | [Verify](https://coursera.org/verify/1AWLS49HBAEV) | 
+| **Automation & Advanced Techniques with Copilot in Excel** | Microsoft | Nov 7, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/NE2P5X14PAC1) | 
 | **Excel and Copilot Fundamentals** | Microsoft | Sep 24, 2026 | [Verify](https://coursera.org/verify/1D88FCYAMWQ7) | 
 
 ### Behavioral Base Safety
