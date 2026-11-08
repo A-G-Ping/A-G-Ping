@@ -187,6 +187,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 | **Work Smarter with Microsoft PowerPoint** | Microsoft | Oct 5, 2026 | [Verify](https://coursera.org/verify/SHYWGCD9R2Y2) | 
 | **Work Smarter with Microsoft Word** | Microsoft | Sep 25, 2026 | [Verify](https://coursera.org/verify/K7FRKML8IEQU) | 
 
+
 ### Microsoft Excel Professional Certificate Track
 
 | Course / Certification Name | Issuer | Date Earned | Credential Link | 
@@ -196,6 +197,13 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 | **Advanced Data Analysis & Visualization with Copilot in Excel** | Microsoft | Sep 26, 2026 | [Verify](https://coursera.org/verify/1AWLS49HBAEV) | 
 | **Automation & Advanced Techniques with Copilot in Excel** | Microsoft | Nov 7, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/NE2P5X14PAC1) | 
 | **Excel and Copilot Fundamentals** | Microsoft | Sep 24, 2026 | [Verify](https://coursera.org/verify/1D88FCYAMWQ7) | 
+
+
+### Microsoft Cybersecurity Analyst Track
+
+| Course / Certification Name | Issuer | Date Earned | Credential Link | 
+| ----- | ----- | ----- | ----- | 
+| **Introduction to Computers and Operating Systems and Security** | Microsoft | Nov 8, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/R57JB2RK9ML9) | 
 
 ### Behavioral Base Safety
 
