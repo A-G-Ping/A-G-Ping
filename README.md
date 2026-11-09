@@ -257,7 +257,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 | Course / Certification Name | Issuer | Date Earned | Credential Link | 
 | ----- | ----- | ----- | ----- | 
 | **Introduction to Computers and Operating Systems and Security** | Microsoft | Nov 8, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/R57JB2RK9ML9) | 
-| **Introduction to Networking and Cloud Computing** | Microsoft | Nov 8, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/OZYCAMOU1O2E) | 
+| **Introduction to Networking and Cloud Computing** | Microsoft | Nov 9, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/OZYCAMOU1O2E) | 
 
 ### Behavioral Base Safety
 
