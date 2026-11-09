@@ -48,6 +48,59 @@
 #### 🏷️ Skill & Credential Identifiers (PWID)
 - PWID-B0126300, PWID-B0163400, PWID-B0179000, PWID-B0197300, PWID-B0216100, PWID-B0241000, PWID-B0255000, PWID-B0270400, PWID-B0320000, PWID-B0381400, PWID-B0394900, PWID-B0421400, PWID-B0449800, PWID-B0479000, PWID-B0519300, PWID-B0532800, PWID-B0533400, PWID-B0600000, PWID-B0609900, PWID-B0901100, PWID-B0904600, PWID-B0918800, PWID-B0919600, PWID-B0926700, PWID-B0928400, PWID-B0928600, PWID-B0931500, PWID-B0941000, PWID-B0941400, PWID-B0953200, PWID-B0955900, PWID-B0966400, PWID-B0967100, PWID-B0968800, PWID-B0968900, PWID-B0970000, PWID-B0970600, PWID-B0989700, PWID-B1004900, PWID-B1055900
 
+- ## ⚡ Stack & Tools
+
+### 🛡️ Security & Frameworks
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA CySA+](https://img.shields.io/badge/CompTIA_CySA+-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+![ISC2](https://img.shields.io/badge/ISC2-00805A?style=for-the-badge&logo=isc2&logoColor=white)
+![IBM Security](https://img.shields.io/badge/IBM_Security-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST_&_SANS-005A9C?style=for-the-badge)
+![SIEM & SOC](https://img.shields.io/badge/SIEM_&_SOC-1E293B?style=for-the-badge)
+![EDR](https://img.shields.io/badge/EDR-0F172A?style=for-the-badge)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-8B0000?style=for-the-badge)
+![IAM](https://img.shields.io/badge/IAM_&_MFA-1D4ED8?style=for-the-badge)
+
+### 📊 Data Science, Python & BI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Bokeh](https://img.shields.io/badge/Bokeh-F56600?style=for-the-badge)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge)
+![IBM Cognos](https://img.shields.io/badge/IBM_Cognos_Analytics-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 🗄️ Databases & Storage
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![IBM Db2](https://img.shields.io/badge/IBM_Db2-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![CouchDB](https://img.shields.io/badge/CouchDB-E42528?style=for-the-badge&logo=apachecouchdb&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-003B57?style=for-the-badge)
+
+### 🤖 AI, LLMs & Machine Learning
+![OpenAI ChatGPT](https://img.shields.io/badge/ChatGPT_&_LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![IBM watsonx](https://img.shields.io/badge/IBM_watsonx-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-6B21A8?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4338CA?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning_&_NLP-0284C7?style=for-the-badge)
+
+### ☁️ Cloud, OS & Infrastructure
+![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Containers](https://img.shields.io/badge/Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge)
+![TCP/IP & Networking](https://img.shields.io/badge/Networking_&_TCP/IP-005073?style=for-the-badge)
+![ITIL & ITSM](https://img.shields.io/badge/ITIL_&_ITSM-5C2D91?style=for-the-badge)
+
 ## 🏆 Major Professional Certificates & Specializations
 
 Here is a high-level summary of the multi-course **Professional Certificates** and **Specializations** I have completed:
