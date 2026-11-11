@@ -258,6 +258,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 | ----- | ----- | ----- | ----- | 
 | **Introduction to Computers and Operating Systems and Security** | Microsoft | Nov 8, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/R57JB2RK9ML9) | 
 | **Introduction to Networking and Cloud Computing** | Microsoft | Nov 9, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/OZYCAMOU1O2E) | 
+| **Cybersecurity Threat Vectors and Mitigation** | Microsoft | Nov 11, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/GHTUWZHE5AC0) | 
 
 ### Behavioral Base Safety
 
