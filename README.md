@@ -261,6 +261,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 | **Cybersecurity Threat Vectors and Mitigation** | Microsoft | Nov 11, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/GHTUWZHE5AC0) | 
 | **Cybersecurity Identity and Access Solutions using Azure AD** | Microsoft | Nov 11, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/JLXB6PDS6S9A) | 
 | **Cybersecurity Solutions and Microsoft Defender** | Microsoft | Nov 11, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/3CVLDZS3O508) | 
+| **Cybersecurity Tools and Technologies** | Microsoft | Nov 12, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/OB6K6511I6XZ) | 
 
 ### Behavioral Base Safety
 
