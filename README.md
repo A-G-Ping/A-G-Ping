@@ -321,9 +321,10 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 | Official Report of Test Results (GED) | American Council on Education / GEDTS | June 24, 2000 | [View Report](https://github.com/A-G-Ping/A-G-Ping/blob/main/IMG_9757.jpeg) |
 
 
-## 📊 GitHub Activity & Stats
+📊 GitHub Activity & Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-G-Ping&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-G-Ping&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-G-Ping&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=A-G-Ping&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-G-Ping&layout=compact&theme=radical&hide_border=true)
