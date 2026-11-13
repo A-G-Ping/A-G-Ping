@@ -195,6 +195,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 
 | Course / Certification Name | Issuer | Date Earned | Credential Link |
 | --- | --- | --- | --- |
+| Advanced Cybersecurity Concepts and Capstone Project | Microsoft | Nov 12, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/B7915RDB57H7) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Advanced%20Cybersecurity%20Concepts%20and%20Capstone%20Project.pdf) |
 | Cybersecurity Tools and Technologies | Microsoft | Nov 12, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/OB6K6511I6XZ) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Cybersecurity%20Tools%20and%20Technologies.pdf) |
 | Cybersecurity Management and Compliance | Microsoft | Nov 12, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/EKNZ9W2J61E8) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Cybersecurity%20Management%20and%20Compliance.pdf) |
 | Cybersecurity Threat Vectors and Mitigation | Microsoft | Nov 11, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/GHTUWZHE5AC0) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Cybersecurity%20Threat%20Vectors%20and%20Mitigation.pdf) |
