@@ -196,7 +196,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 
 | Course / Certification Name | Issuer | Date Earned | Credential Link |
 | --- | --- | --- | --- |
-| **Microsoft Cybersecurity Analyst** | Microsoft | Specialization (9 Courses) | Nov 13, 2026 | [Verify Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/FXOIMPZG7P4H) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Microsoft%20Cybersecurity%20Analyst%20Professional%20Certificate.pdf) |
+| **Microsoft Cybersecurity Analyst** | Microsoft | Specialization (9 Courses) | Nov 13, 2026 | [Verify Credential](https://coursera.org/verify/specialization/FXOIMPZG7P4H) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Microsoft%20Cybersecurity%20Analyst%20Professional%20Certificate.pdf) |
 | Microsoft SC-900 Exam Preparation and Practice | Microsfot | Specialization (9 Courses) | Nov 13, 2026 | [Verify Credential](https://www.coursera.org/account/accomplishments/certificate/DZP82JWI998K) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Microsoft%20SC-900%20Exam%20Preparation%20and%20Practice.pdf) |
 | Advanced Cybersecurity Concepts and Capstone Project | Microsoft | Nov 12, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/B7915RDB57H7) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Advanced%20Cybersecurity%20Concepts%20and%20Capstone%20Project.pdf) |
 | Cybersecurity Tools and Technologies | Microsoft | Nov 12, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/OB6K6511I6XZ) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Cybersecurity%20Tools%20and%20Technologies.pdf) |
