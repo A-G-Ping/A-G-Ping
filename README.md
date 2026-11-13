@@ -2,7 +2,7 @@
 
 ### 🛡️ Cybersecurity | 💻 IT Support & Infrastructure | 📊 Data Analytics & AI | 🏥 Healthcare IT
 
-[Credly Verified Badges](https://www.google.com/search?q=https://www.credly.com/users/adamping/badges/credly) [](https://github.com/A-G-Ping)
+[Credly Verified Badges](https://www.credly.com/users/adamping/badges/credly) [](https://github.com/A-G-Ping)
 
 [**🛠️ Core Technical Competencies & Tools**](#️-core-technical-competencies--tools) • [**⚒️ Skills & Competencies**](#️-skills--competencies) • [**⚡ Stack & Tools**](#-stack--tools) • [**🏆 Major Professional Certificates & Specializations**](#-major-professional-certificates--specializations) • [**📜 Complete Course Certifications by Domain**](#-complete-course-certifications-by-domain) • [**🎓 Education, Academic Awards & Foundational Credentials**](#-education-academic-awards--foundational-credentials)
 
