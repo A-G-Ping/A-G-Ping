@@ -176,7 +176,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 
 | Course / Certification Name | Issuer | Date Earned | Credential Link |
 | --- | --- | --- | --- |
-| **IBM Cybersecurity Analyst Professional Certificate** | IBM | Nov 6, 2026 | [Verify](https://coursera.org/verify/professional-cert/M2NPDTWIMX1G) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/IBM%20Cybersecurity%20Analyst.pdf) |
+| **IBM Cybersecurity Analyst Professional Certificate** | IBM | Nov 6, 2026 | [Verify](https://coursera.org/verify/FXOIMPZG7P4H) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/IBM%20Cybersecurity%20Analyst.pdf) |
 | Cybersecurity Assessment: CompTIA Security+ & CySA+ | IBM | Nov 6, 2026 | [Verify](https://coursera.org/verify/OZXNKTI1J7RP) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Cybersecurity%20Assessment%20CompTIA%20Security%2B%20%26%20CYSA%2B.pdf) |
 | Incident Response and Digital Forensics | IBM | Nov 6, 2026 | [Verify](https://coursera.org/verify/HT3O5QVLUHEG) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Incident%20Response%20and%20Digital%20Forensics.pdf) |
 | Cybersecurity Case Studies and Capstone Project | IBM | Nov 6, 2026 | [Verify](https://coursera.org/verify/RN9P3DJTRR62) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Cybersecurity%20Case%20Studies%20and%20Capstone%20Project.pdf) |
