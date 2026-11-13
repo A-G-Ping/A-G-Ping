@@ -146,7 +146,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 
 | Credential Title | Issuing Organization | Type | Date Earned | Verification |
 | --- | --- | --- | --- | --- |
-| **Microsoft Cybersecurity Analyst** | Microsoft | Specialization (9 Courses) | Nov 13, 2026 | [Verify Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/FXOIMPZG7P4H) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Microsoft%20Cybersecurity%20Analyst%20Professional%20Certificate.pdf) |
+| **Microsoft Cybersecurity Analyst** | Microsoft | Specialization (9 Courses) | Nov 13, 2026 | [Verify Credential](https://coursera.org/verify/specialization/FXOIMPZG7P4H) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Microsoft%20Cybersecurity%20Analyst%20Professional%20Certificate.pdf) |
 | **IBM AI Foundations for Everyone** | IBM | Specialization (4 Courses) | Nov 7, 2026 | [Verify Credential](https://coursera.org/verify/specialization/300CXVWJBAC6) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/AI%20Foundations%20for%20Everyone.pdf) |
 | **Microsoft Excel** | Microsoft | Specialization (4 Courses) | Nov 7, 2026 | [Verify Credential](https://www.coursera.org/account/accomplishments/professional-cert/24CH9L5TGBD8) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Microsoft%20Excel%20Professional%20Certificate.pdf) |
 | **IBM Cybersecurity Analyst** | IBM | Professional Certificate (14 Courses) | Nov 6, 2026 | [Verify Credential](https://coursera.org/verify/professional-cert/M2NPDTWIMX1G) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/IBM%20Cybersecurity%20Analyst.pdf) |
