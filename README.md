@@ -11,42 +11,81 @@
   </a>
 </p>
 
-## 🛠️ Core Technical Competencies & Tools
+🛠️ Core Technical Competencies & Tools
 
-- **🛡️ Cybersecurity & SecOps:** Cybersecurity Architecture, SIEM & Endpoint Security (EDR/IDS), Incident Response & Digital Forensics, Penetration Testing & Threat Hunting, Cyber Threat Intelligence, Vulnerability Assessment, Cryptography, Compliance Frameworks (NIST, SANS, COBIT), Data Privacy
+🛡️ Cybersecurity & SecOps
+- Cybersecurity Architecture
+- SIEM & Endpoint Security (EDR/IDS)
+- Incident Response & Digital Forensics
+- Penetration Testing & Threat Hunting
+- Cyber Threat Intelligence
+- Vulnerability Assessment & Management
+- Cryptography
+- Compliance Frameworks (NIST CSF, SANS, COBIT)
+- Microsoft Defender & Azure Active Directory (Azure AD)
+- Identity & Access Management (IAM), MFA, RBAC, SSO
+- Threat Modeling, MITRE ATT&CK, Cyber Kill Chain, Defense-in-Depth
+- Cloud & Network Security
+- Firewall Configuration
+- Intrusion Detection & Prevention (Suricata)
+- Packet Analysis (Wireshark, tcpdump)
+- Log Analysis
 
-- **💻 IT Support & System Administration:** OS Administration & Hardening (Windows, Linux, macOS), Computer Networks & Network Security, Cloud Computing & Virtualization, Hardware & Storage Configuration, IT Service Management (ITIL/ITSM), CompTIA Tech+, Security+ & CySA+ Readiness
+💻 IT Support & System Administration
+- OS Administration & Hardening (Windows, Linux, macOS)
+- Computer Networks & Network Security
+- Cloud Computing & Virtualization
+- Hardware & Storage Configuration
+- IT Service Management (ITIL/ITSM)
+- CompTIA Tech+, Security+ & CySA+ Readiness
+- Active Directory & Microsoft 365 Administration
+- Remote Support, Ticketing Systems & Troubleshooting
+- Linux Command Line / Bash
 
-- **📊 Data Analytics, Databases & AI:** Python (`Pandas`, `NumPy`, `Matplotlib`, `Scikit-learn`, `Seaborn`), Relational & NoSQL Databases (`SQL`, `Db2`, `MongoDB`, `Oracle`), Database Security & Vulnerability Auditing, Data Visualization (`IBM Cognos Analytics`), Microsoft Excel & Copilot AI, Generative AI, Prompt Engineering & Conversational AI (`IBM watsonx Assistant`, `ChatGPT`, `LLMs`)
+📊 Data Analytics, Databases & AI
+- Python (Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn)
+- Relational & NoSQL Databases (SQL, Db2, MongoDB, Oracle)
+- Database Security & Vulnerability Auditing
+- Data Visualization (IBM Cognos Analytics)
+- Microsoft Excel, Copilot AI, Macros & Visual Basic for Applications (VBA)
+- Generative AI & Prompt Engineering (IBM watsonx Assistant, ChatGPT, LLMs)
+- PivotTables, PivotCharts & Interactive Dashboards
+- Data Cleaning, Transformation, Predictive & Scenario Analysis
 
-- **🏥 Healthcare IT:** Clinical Information Systems, Healthcare Data Security, HIPAA Privacy & Compliance, Patient Safety & IT Operations
+🏥 Healthcare IT
+- Clinical Information Systems
+- Healthcare Data Security
+- HIPAA Privacy & Compliance
+- Patient Safety & IT Operations
+- Health Information Technology Fundamentals
 
-### 🛠️ Skills & Competencies
+🛠️ Skills & Competencies
 
-#### 💻 AI, Programming & Data Science
-- **AI, Machine Learning & LLMs:** AI Ethics (Ethics for AI), AI for Business, Artificial Intelligence (AI), Artificial Neural Networks, Chatbot, ChatGPT, Conversational Agent, Deep Learning, Generative AI, Human Computer Interaction, Human Learning, IBM watsonx Assistant, Image Generation, Large Language Models (LLMs), Machine Learning, Machine Learning Algorithms, Natural Language Processing, Prompt Engineering, Prompt Engineering Approaches, Prompt Patterns, Scikit-learn, SciPy, Text Generation, Tools for Prompt Engineering
-- **Languages, Libraries & Notebooks:** Bokeh, Computer Programming, Folium, Jupyter Lab & Jupyter Notebook, Matplotlib, NumPy, Pandas, Python, Scripting, Seaborn, SQL
-- **Data Analytics & Visualization:** Charts, Cognos Analytics (IBM Cognos / IBM Cognos Analytics), Dashboards, Data Analysis, Data Analyst, Data Analytics, Data Augmentation, Data Generation, Data Science, Data Sources, Data Visualization (DataViz), Data Wrangling, Maps, Pivot Tables, Plots
-- **Databases & Storage:** CouchDB (Couch), Data Lake, Data Protection, Data Recovery, Data Warehouse, Database, Database Auditing Models, Database Injection Vulnerabilities, Database Management, Database Security, Database Types, Db2, File Systems, MongoDB, NoSQL, Oracle, Querying Databases, Relational Databases (RDBMS), Storage
+💻 AI, Programming & Data Science
+- **AI & Generative AI:** Generative AI, Large Language Models (LLMs), Prompt Engineering, ChatGPT, IBM watsonx Assistant, Machine Learning, Natural Language Processing
+- **Languages & Tools:** Python, SQL, Visual Basic for Applications (VBA), Linux Command Line / Bash, Jupyter Notebooks
+- **Data Analytics & Visualization:** Data Analysis, Dashboards, PivotTables, PivotCharts, IBM Cognos Analytics, Predictive & Scenario Analysis
+- **Databases:** SQL, Db2, MongoDB, Oracle, NoSQL, Database Security
 
-#### 🔒 Cybersecurity, Governance & Risk
-- **Offensive & Defensive Security:** Attacks, Breaches, Containment, Cowrie, Cyber Attacks, Defensive Security Techniques, Digital Evidence, Digital Forensics, EDR, Eradication and Recovery, Exploit Development, Exploits, Exposed Data, Malware, Network Defense Tactics, Offensive Security Techniques, Packet Sniffing, Penetration Testing, Phishing, Post-incident Activities, PTES (Penetration Testing Execution Standard), Ransomware, Security Analyst, SIEM, SOC, Social Engineering, Threat Detection, Threat Detection and Mitigation, Threat Hunting, Threat Intelligence, Threat Management, Vulnerability Assessment, Vulnerability Scanning
-- **Cryptography, Auth & Privacy:** Authentication, Authorization, Availability, Confidentiality, Cryptographic Algorithms, Cryptographic Protocols, Data Security, Encryption & Encryption Methods, Identity and Access Management (IAM), Information Privacy, Integrity, Key Management, Multi-Factor Authentication (MFA), Password Management & Policies, Secure Data Transmission
-- **Security Domains & Hardening:** Application Security, Cybersecurity, Cybersecurity Controls, Cybersecurity Fundamentals, Cybersecurity Threats, Device Security, Email Security, Hardening Devices, IBM Security, Incident Response, Incident Response Automation, Incident Response Preparation, Information Security (INFOSEC), Introduction to Cybersecurity, Network Security, Physical Threats and Controls, Security, Security Audits, Security Breaches, Security Frameworks, Security Fundamentals, Security Threats, System Hardening
-- **Frameworks, Compliance & Risk:** COBIT, Laws and Regulations, NICE Framework, NIST, NIST and SANS Cybersecurity Frameworks, OWASP (Open Web Application Security Project), Risk Assessment, Risk Management
+🔒 Cybersecurity, Governance & Compliance
+- **Security Operations:** Incident Response, Digital Forensics, Threat Hunting, Penetration Testing, SIEM, SOAR, Log Analysis, Packet Analysis (Wireshark, tcpdump)
+- **Identity & Access:** Azure Active Directory, IAM, MFA, RBAC, SSO, Active Directory
+- **Microsoft Security Stack:** Microsoft Defender, Microsoft 365 Defender, Azure Sentinel, Microsoft Purview
+- **Detection Tools:** Splunk, Google Chronicle, Suricata
+- **Frameworks & Governance:** NIST CSF, MITRE ATT&CK, Cyber Kill Chain, Defense-in-Depth, COBIT, SANS, Email Security
 
-#### 🌐 Networking, Cloud & Systems
-- **Networking:** Computer Networks, DHCP, DNS, IEEE, IP Addressing, Network Address Translation (NAT), Network Architecture, Networking, Networking Fundamentals, Networking Hardware, Networking Setup, OSI Models, Routing, Switches, TCP/IP, Wireless Networks
-- **Cloud, Virtualization & DevOps:** Cloud, Cloud Computing, Cloud Native, Cloud Storage, Containers, DevOps, Hybrid Cloud, IaaS, IBM Cloud, Multicloud, PaaS, SaaS, Virtualization
-- **Operating Systems & Hardware:** Administration, Computer Literacy, Hardware & Hardware Setup, Information Technology, Introduction to Computers, Introduction to Linux, IT Foundations & Fundamentals, IT Infrastructure, Linux, macOS, Microsoft Windows, Operating Systems, Systems Administration, User Profiles, Validation, Windows
+💻 Networking, Cloud & Infrastructure
+- **Networking:** TCP/IP, OSI Models, Routing, Switching, Wireless Networks, Network Security
+- **Cloud & Virtualization:** Microsoft Azure, IBM Cloud, Hybrid Cloud, Virtualization, Containers
+- **Operating Systems:** Windows, Linux, macOS, Systems Administration
 
-#### 🧰 IT Support, Software & Professional Development
-- **IT Service Management & Support:** Customer Service, Escalation Matrix, HelpDesk, Information Technology (IT) Support, ITIL, IT Service Management (ITSM) & Frameworks, Remote Support, Service Desk, Service Level Agreements (SLA), Spam Management, Support Tiers, Support Tools, Technical Support, Technician, Ticketing Systems, Troubleshooting
-- **Productivity & Software Tools:** Documentation, Excel, Microsoft 365 Fundamentals, Microsoft Excel, Microsoft PowerPoint, Software Configuration & Setup, Spreadsheets, Web Browsers
-- **Certifications & Career Readiness:** Architect, Behavioral Questions, Career Development, Careers in AI, Certification, Communication Skills, CompTIA, CompTIA Certifications, CompTIA CySA+, CompTIA Security+, Cover Letter, Cybersecurity Careers, Developer, Elevator Pitch, Exam Readiness, Hands-on Capstone Project, IBM New Collar, Interview Preparation, ISC2 Certifications, IT Career, Job Search, Portfolio Development, Presentation Skills, Resume Writing
+🧰 IT Support, Software & Professional Development
+- **IT Support:** HelpDesk, ITIL, ITSM, Remote Support, Ticketing Systems, Troubleshooting
+- **Productivity Tools:** Microsoft Excel (Macros & VBA), Microsoft 365, PowerPoint, Word
+- **Career Readiness:** CompTIA Security+, CompTIA CySA+, SC-900 Exam Readiness, Resume Writing, Interview Preparation, Portfolio Development
 
-#### 🏷️ Skill & Credential Identifiers (PWID)
-- PWID-B0126300, PWID-B0163400, PWID-B0179000, PWID-B0197300, PWID-B0216100, PWID-B0241000, PWID-B0255000, PWID-B0270400, PWID-B0320000, PWID-B0381400, PWID-B0394900, PWID-B0421400, PWID-B0449800, PWID-B0479000, PWID-B0519300, PWID-B0532800, PWID-B0533400, PWID-B0600000, PWID-B0609900, PWID-B0901100, PWID-B0904600, PWID-B0918800, PWID-B0919600, PWID-B0926700, PWID-B0928400, PWID-B0928600, PWID-B0931500, PWID-B0941000, PWID-B0941400, PWID-B0953200, PWID-B0955900, PWID-B0966400, PWID-B0967100, PWID-B0968800, PWID-B0968900, PWID-B0970000, PWID-B0970600, PWID-B0989700, PWID-B1004900, PWID-B1055900
+🏷️ Skill & Credential Identifiers (PWID)  
+PWID-B0126300, PWID-B0163400, PWID-B0179000, PWID-B0197300, PWID-B0216100, PWID-B0241000, PWID-B0255000, PWID-B0270400, PWID-B0320000, PWID-B0381400, PWID-B0394900, PWID-B0421400, PWID-B0449800, PWID-B0479000, PWID-B0519300, PWID-B0532800, PWID-B0533400, PWID-B0600000, PWID-B0609900, PWID-B0901100, PWID-B0904600, PWID-B0918800, PWID-B0919600, PWID-B0926700, PWID-B0928400, PWID-B0928600, PWID-B0931500, PWID-B0941000, PWID-B0941400, PWID-B0953200, PWID-B0955900, PWID-B0966400, PWID-B0967100, PWID-B0968800, PWID-B0968900, PWID-B0970000, PWID-B0970600, PWID-B0989700, PWID-B1004900, PWID-B1055900
 
 - ## ⚡ Stack & Tools
 
@@ -280,7 +319,6 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 | Program Award of Excellence: Business Computer Applications | Pickens Tech | May 16, 2001 | [View Award](https://github.com/A-G-Ping/A-G-Ping/blob/main/IMG_9761.jpeg) |
 | High School Equivalency Diploma | State of Colorado Department of Education | June 29, 2000 | [View Diploma](https://github.com/A-G-Ping/A-G-Ping/blob/main/IMG_9758.jpg) |
 | Official Report of Test Results (GED) | American Council on Education / GEDTS | June 24, 2000 | [View Report](https://github.com/A-G-Ping/A-G-Ping/blob/main/IMG_9757.jpeg) |
-```
 
 
 ## 📊 GitHub Activity & Stats
