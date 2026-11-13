@@ -146,6 +146,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 
 | Credential Title | Issuing Organization | Type | Date Earned | Verification |
 | --- | --- | --- | --- | --- |
+| **Microsoft Cybersecurity Analyst** | Microsoft | Specialization (9 Courses) | Nov 13, 2026 | [Verify Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/FXOIMPZG7P4H) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Microsoft%20Cybersecurity%20Analyst%20Professional%20Certificate.pdf) |
 | **IBM AI Foundations for Everyone** | IBM | Specialization (4 Courses) | Nov 7, 2026 | [Verify Credential](https://coursera.org/verify/specialization/300CXVWJBAC6) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/AI%20Foundations%20for%20Everyone.pdf) |
 | **Microsoft Excel** | Microsoft | Specialization (4 Courses) | Nov 7, 2026 | [Verify Credential](https://www.coursera.org/account/accomplishments/professional-cert/24CH9L5TGBD8) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Microsoft%20Excel%20Professional%20Certificate.pdf) |
 | **IBM Cybersecurity Analyst** | IBM | Professional Certificate (14 Courses) | Nov 6, 2026 | [Verify Credential](https://coursera.org/verify/professional-cert/M2NPDTWIMX1G) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/IBM%20Cybersecurity%20Analyst.pdf) |
@@ -195,6 +196,8 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 
 | Course / Certification Name | Issuer | Date Earned | Credential Link |
 | --- | --- | --- | --- |
+| **Microsoft Cybersecurity Analyst** | Microsoft | Specialization (9 Courses) | Nov 13, 2026 | [Verify Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/FXOIMPZG7P4H) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Microsoft%20Cybersecurity%20Analyst%20Professional%20Certificate.pdf) |
+| Microsoft SC-900 Exam Preparation and Practice | Microsfot | Specialization (9 Courses) | Nov 13, 2026 | [Verify Credential](https://www.coursera.org/account/accomplishments/certificate/DZP82JWI998K) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Microsoft%20SC-900%20Exam%20Preparation%20and%20Practice.pdf) |
 | Advanced Cybersecurity Concepts and Capstone Project | Microsoft | Nov 12, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/B7915RDB57H7) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Advanced%20Cybersecurity%20Concepts%20and%20Capstone%20Project.pdf) |
 | Cybersecurity Tools and Technologies | Microsoft | Nov 12, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/OB6K6511I6XZ) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Cybersecurity%20Tools%20and%20Technologies.pdf) |
 | Cybersecurity Management and Compliance | Microsoft | Nov 12, 2026 | [Verify](https://www.coursera.org/account/accomplishments/verify/EKNZ9W2J61E8) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Cybersecurity%20Management%20and%20Compliance.pdf) |
