@@ -256,7 +256,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 
 | Course / Certification Name | Issuer | Date Earned | Credential Link |
 | --- | --- | --- | --- |
-| **Google AI Specialization** | Google | Nov 13, 2026 | [Verify](https://www.coursera.org/account/accomplishments/specialization/UDCCYAVJ6NFP) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Google%20AI.pdf) |
+| **Google AI Professional Certificate** | Google | Nov 13, 2026 | [Verify](https://www.coursera.org/account/accomplishments/specialization/UDCCYAVJ6NFP) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Google%20AI.pdf) |
 | AI Fundamentals | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/VKVCMUMJRG8L) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/AI%20Fundamentals.pdf) |
 | AI for Brainstorming and Planning | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/O409OODZ95SJ) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/AI%20for%20Brainstorming%20and%20Planning.pdf) |
 | AI for Research and Insights | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/0DYKTMBIEYAR) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/AI%20for%20Research%20and%20Insights.pdf) |
