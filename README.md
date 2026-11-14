@@ -175,7 +175,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 
 | Credential Title | Issuing Organization | Type | Date Earned | Verification |
 | --- | --- | --- | --- | --- |
-| **Gogle AI** | Google | Specialization (8 Courses) | Nov 13, 2026 | [Verify Credential](https://coursera.org/verify/specialization/UDCCYAVJ6NFP) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Microsoft%20Cybersecurity%20Analyst%20Professional%20Certificate.pdf) |
+| **Gogle AI** | Google | Specialization (8 Courses) | Nov 13, 2026 | [Verify Credential](https://coursera.org/verify/specialization/UDCCYAVJ6NFP) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Google%20AI.pdf) |
 | **Microsoft Cybersecurity Analyst** | Microsoft | Specialization (9 Courses) | Nov 13, 2026 | [Verify Credential](https://coursera.org/verify/specialization/FXOIMPZG7P4H) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Microsoft%20Cybersecurity%20Analyst%20Professional%20Certificate.pdf) |
 | **IBM AI Foundations for Everyone** | IBM | Specialization (4 Courses) | Nov 7, 2026 | [Verify Credential](https://coursera.org/verify/specialization/300CXVWJBAC6) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/AI%20Foundations%20for%20Everyone.pdf) |
 | **Microsoft Excel** | Microsoft | Specialization (4 Courses) | Nov 7, 2026 | [Verify Credential](https://www.coursera.org/account/accomplishments/professional-cert/24CH9L5TGBD8) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Microsoft%20Excel%20Professional%20Certificate.pdf) |
@@ -256,15 +256,15 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 
 | Course / Certification Name | Issuer | Date Earned | Credential Link |
 | --- | --- | --- | --- |
-| **Google AI Specialization** | Google | Nov 13, 2026 | [Verify](https://www.coursera.org/account/accomplishments/specialization/UDCCYAVJ6NFP) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Google%20Cybersecurity.pdf) |
-| AI Fundamentals | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/VKVCMUMJRG8L) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Sound%20the%20Alarm%20-%20Detection%20and%20Response.pdf) |
-| AI for Brainstorming and Planning | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/O409OODZ95SJ) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Sound%20the%20Alarm%20-%20Detection%20and%20Response.pdf) |
-| AI for Research and Insights | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/0DYKTMBIEYAR) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Sound%20the%20Alarm%20-%20Detection%20and%20Response.pdf) |
-| AI for Writing and Communicating | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/19CK33UEEDW9) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Sound%20the%20Alarm%20-%20Detection%20and%20Response.pdf) |
-| AI for Content Creation | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/ZTCR7SO61KSN) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Sound%20the%20Alarm%20-%20Detection%20and%20Response.pdf) |
-| AI for Data Analysis | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/JPFFVOUCL5M7) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Sound%20the%20Alarm%20-%20Detection%20and%20Response.pdf) |
-| AI for App Building | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/G0V1DSXFKKV3) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Sound%20the%20Alarm%20-%20Detection%20and%20Response.pdf) |
-| AI for App Deployment | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/XV09CWDDQLCV) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Sound%20the%20Alarm%20-%20Detection%20and%20Response.pdf) |
+| **Google AI Specialization** | Google | Nov 13, 2026 | [Verify](https://www.coursera.org/account/accomplishments/specialization/UDCCYAVJ6NFP) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Google%20AI.pdf) |
+| AI Fundamentals | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/VKVCMUMJRG8L) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/AI%20Fundamentals.pdf) |
+| AI for Brainstorming and Planning | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/O409OODZ95SJ) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/AI%20for%20Brainstorming%20and%20Planning.pdf) |
+| AI for Research and Insights | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/0DYKTMBIEYAR) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/AI%20for%20Research%20and%20Insights.pdf) |
+| AI for Writing and Communicating | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/19CK33UEEDW9) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/AI%20for%20Writing%20and%20Communicating.pdf) |
+| AI for Content Creation | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/ZTCR7SO61KSN) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/AI%20for%20Content%20Creation.pdf) |
+| AI for Data Analysis | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/JPFFVOUCL5M7) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/AI%20for%20Data%20Analysis.pdf) |
+| AI for App Building | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/G0V1DSXFKKV3) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/AI%20for%20App%20Building.pdf) |
+| AI for App Deployment | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/XV09CWDDQLCV) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/AI%20for%20App%20Deployment.pdf) |
 
 ### Cisco Cybersecurity Operations Track
 
