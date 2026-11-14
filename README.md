@@ -6,7 +6,7 @@
 
 [**🛠️ Core Technical Competencies & Tools**](#️-core-technical-competencies--tools) • [**⚒️ Skills & Competencies**](#️-skills--competencies) • [**⚡ Stack & Tools**](#-stack--tools) • [**🏆 Major Professional Certificates & Specializations**](#-major-professional-certificates--specializations) • [**📜 Complete Course Certifications by Domain**](#-complete-course-certifications-by-domain) • [**🎓 Education, Academic Awards & Foundational Credentials**](#-education-academic-awards--foundational-credentials)
 
-**Jump to Track:** [IBM AI Foundations for Everyone Track](#ibm-ai-foundations-for-everyone-track) · [IBM Cybersecurity Analyst Track](#ibm-cybersecurity-analyst-track) · [Microsoft Cybersecurity Analyst Track](#microsoft-cybersecurity-analyst-track) · [Google Cybersecurity Track](#google-cybersecurity-track) · [Cisco Cybersecurity Operations Track](#cisco-cybersecurity-operations-track) · [IBM Data Analyst Track](#ibm-data-analyst-track) · [Microsoft Excel Specialization Track](#microsoft-excel-specialization-track) · [Google IT Support Track](#google-it-support-track) · [IBM IT Support Track](#ibm-it-support-track) · [Microsoft 365 Fundamentals Track](#microsoft-365-fundamentals-track) · [Healthcare IT Support Track](#healthcare-it-support-track) · [Behavioral Base Safety](#behavioral-base-safety)
+**Jump to Track:** [IBM AI Foundations for Everyone Track](#ibm-ai-foundations-for-everyone-track) · [IBM Cybersecurity Analyst Track](#ibm-cybersecurity-analyst-track) · [Microsoft Cybersecurity Analyst Track](#microsoft-cybersecurity-analyst-track) · [Google Cybersecurity Track](#google-cybersecurity-track) ·  [Google AI Track](#google-AI-track) · [Cisco Cybersecurity Operations Track](#cisco-cybersecurity-operations-track) · [IBM Data Analyst Track](#ibm-data-analyst-track) · [Microsoft Excel Specialization Track](#microsoft-excel-specialization-track) · [Google IT Support Track](#google-it-support-track) · [IBM IT Support Track](#ibm-it-support-track) · [Microsoft 365 Fundamentals Track](#microsoft-365-fundamentals-track) · [Healthcare IT Support Track](#healthcare-it-support-track) · [Behavioral Base Safety](#behavioral-base-safety)
 
 ---
 
@@ -175,6 +175,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 
 | Credential Title | Issuing Organization | Type | Date Earned | Verification |
 | --- | --- | --- | --- | --- |
+| **Gogle AI** | Google | Specialization (8 Courses) | Nov 13, 2026 | [Verify Credential](https://coursera.org/verify/specialization/UDCCYAVJ6NFP) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Microsoft%20Cybersecurity%20Analyst%20Professional%20Certificate.pdf) |
 | **Microsoft Cybersecurity Analyst** | Microsoft | Specialization (9 Courses) | Nov 13, 2026 | [Verify Credential](https://coursera.org/verify/specialization/FXOIMPZG7P4H) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Microsoft%20Cybersecurity%20Analyst%20Professional%20Certificate.pdf) |
 | **IBM AI Foundations for Everyone** | IBM | Specialization (4 Courses) | Nov 7, 2026 | [Verify Credential](https://coursera.org/verify/specialization/300CXVWJBAC6) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/AI%20Foundations%20for%20Everyone.pdf) |
 | **Microsoft Excel** | Microsoft | Specialization (4 Courses) | Nov 7, 2026 | [Verify Credential](https://www.coursera.org/account/accomplishments/professional-cert/24CH9L5TGBD8) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Microsoft%20Excel%20Professional%20Certificate.pdf) |
@@ -250,6 +251,20 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 | Connect and Protect: Networks and Network Security | Google | Oct 5, 2026 | [Verify](https://coursera.org/verify/N5QY9N5AYE5W) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Connect%20and%20Protect%20-%20Networks%20and%20Network%20Security.pdf) |
 | Tools of the Trade: Linux and SQL | Google | Oct 5, 2026 | [Verify](https://coursera.org/verify/QHPYZHOECO7W) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Tools%20of%20the%20Trade%20-%20Linux%20and%20SQL.pdf) |
 | Assets, Threats, and Vulnerabilities | Google | Oct 5, 2026 | [Verify](https://coursera.org/verify/F2X4G30PDINW) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Assets%20Threats%20and%20Vulnerabilities.pdf) |
+
+### Google AI Track
+
+| Course / Certification Name | Issuer | Date Earned | Credential Link |
+| --- | --- | --- | --- |
+| **Google AI Specialization** | Google | Nov 13, 2026 | [Verify](https://www.coursera.org/account/accomplishments/specialization/UDCCYAVJ6NFP) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Google%20Cybersecurity.pdf) |
+| AI Fundamentals | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/VKVCMUMJRG8L) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Sound%20the%20Alarm%20-%20Detection%20and%20Response.pdf) |
+| AI for Brainstorming and Planning | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/O409OODZ95SJ) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Sound%20the%20Alarm%20-%20Detection%20and%20Response.pdf) |
+| AI for Research and Insights | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/0DYKTMBIEYAR) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Sound%20the%20Alarm%20-%20Detection%20and%20Response.pdf) |
+| AI for Writing and Communicating | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/19CK33UEEDW9) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Sound%20the%20Alarm%20-%20Detection%20and%20Response.pdf) |
+| AI for Content Creation | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/ZTCR7SO61KSN) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Sound%20the%20Alarm%20-%20Detection%20and%20Response.pdf) |
+| AI for Data Analysis | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/JPFFVOUCL5M7) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Sound%20the%20Alarm%20-%20Detection%20and%20Response.pdf) |
+| AI for App Building | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/G0V1DSXFKKV3) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Sound%20the%20Alarm%20-%20Detection%20and%20Response.pdf) |
+| AI for App Deployment | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/XV09CWDDQLCV) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Sound%20the%20Alarm%20-%20Detection%20and%20Response.pdf) |
 
 ### Cisco Cybersecurity Operations Track
 
