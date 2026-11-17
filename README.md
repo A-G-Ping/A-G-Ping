@@ -175,7 +175,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 
 | Credential Title | Issuing Organization | Type | Date Earned | Verification |
 | --- | --- | --- | --- | --- |
-| **Google AI Essentials Specialization** | Google | Specialization (5 Courses) | Nov 17, 2026 | [Verify Credential](https://coursera.org/verify/specialization/UDCCYAVJ6NFP) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Google%20AI.pdf) |
+| **Google AI Essentials Specialization** | Google | Specialization (5 Courses) | Nov 17, 2026 | [Verify Credential](https://coursera.org/verify/specialization/W0BBXRGJOEMB) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Google%20AI%20Essentials.pdf) |
 | **Gogle AI** | Google | Specialization (8 Courses) | Nov 13, 2026 | [Verify Credential](https://coursera.org/verify/specialization/UDCCYAVJ6NFP) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Google%20AI.pdf) |
 | **Microsoft Cybersecurity Analyst** | Microsoft | Specialization (9 Courses) | Nov 13, 2026 | [Verify Credential](https://coursera.org/verify/specialization/FXOIMPZG7P4H) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Microsoft%20Cybersecurity%20Analyst%20Professional%20Certificate.pdf) |
 | **IBM AI Foundations for Everyone** | IBM | Specialization (4 Courses) | Nov 7, 2026 | [Verify Credential](https://coursera.org/verify/specialization/300CXVWJBAC6) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/AI%20Foundations%20for%20Everyone.pdf) |
