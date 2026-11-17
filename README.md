@@ -6,7 +6,7 @@
 
 [**🛠️ Core Technical Competencies & Tools**](#️-core-technical-competencies--tools) • [**⚒️ Skills & Competencies**](#️-skills--competencies) • [**⚡ Stack & Tools**](#-stack--tools) • [**🏆 Major Professional Certificates & Specializations**](#-major-professional-certificates--specializations) • [**📜 Complete Course Certifications by Domain**](#-complete-course-certifications-by-domain) • [**🎓 Education, Academic Awards & Foundational Credentials**](#-education-academic-awards--foundational-credentials)
 
-**Jump to Track:** [IBM AI Foundations for Everyone Track](#ibm-ai-foundations-for-everyone-track) · [IBM Cybersecurity Analyst Track](#ibm-cybersecurity-analyst-track) · [Microsoft Cybersecurity Analyst Track](#microsoft-cybersecurity-analyst-track) · [Google Cybersecurity Track](#google-cybersecurity-track) ·  [Google AI Track](#google-AI-track) · [Cisco Cybersecurity Operations Track](#cisco-cybersecurity-operations-track) · [IBM Data Analyst Track](#ibm-data-analyst-track) · [Microsoft Excel Specialization Track](#microsoft-excel-specialization-track) · [Google IT Support Track](#google-it-support-track) · [IBM IT Support Track](#ibm-it-support-track) · [Microsoft 365 Fundamentals Track](#microsoft-365-fundamentals-track) · [Healthcare IT Support Track](#healthcare-it-support-track) · [Behavioral Base Safety](#behavioral-base-safety)
+**Jump to Track:** [IBM AI Foundations for Everyone Track](#ibm-ai-foundations-for-everyone-track) · [IBM Cybersecurity Analyst Track](#ibm-cybersecurity-analyst-track) · [Microsoft Cybersecurity Analyst Track](#microsoft-cybersecurity-analyst-track) · [Google Cybersecurity Track](#google-cybersecurity-track) ·  [Google AI Track](#google-AI-track) · [Google AI Essentials Track](#google-AI-Essentials-track) · [Cisco Cybersecurity Operations Track](#cisco-cybersecurity-operations-track) · [IBM Data Analyst Track](#ibm-data-analyst-track) · [Microsoft Excel Specialization Track](#microsoft-excel-specialization-track) · [Google IT Support Track](#google-it-support-track) · [IBM IT Support Track](#ibm-it-support-track) · [Microsoft 365 Fundamentals Track](#microsoft-365-fundamentals-track) · [Healthcare IT Support Track](#healthcare-it-support-track) · [Behavioral Base Safety](#behavioral-base-safety)
 
 ---
 
@@ -175,6 +175,7 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 
 | Credential Title | Issuing Organization | Type | Date Earned | Verification |
 | --- | --- | --- | --- | --- |
+| **Google AI Essentials Specialization** | Google | Specialization (5 Courses) | Nov 17, 2026 | [Verify Credential](https://coursera.org/verify/specialization/UDCCYAVJ6NFP) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Google%20AI.pdf) |
 | **Gogle AI** | Google | Specialization (8 Courses) | Nov 13, 2026 | [Verify Credential](https://coursera.org/verify/specialization/UDCCYAVJ6NFP) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Google%20AI.pdf) |
 | **Microsoft Cybersecurity Analyst** | Microsoft | Specialization (9 Courses) | Nov 13, 2026 | [Verify Credential](https://coursera.org/verify/specialization/FXOIMPZG7P4H) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Microsoft%20Cybersecurity%20Analyst%20Professional%20Certificate.pdf) |
 | **IBM AI Foundations for Everyone** | IBM | Specialization (4 Courses) | Nov 7, 2026 | [Verify Credential](https://coursera.org/verify/specialization/300CXVWJBAC6) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/AI%20Foundations%20for%20Everyone.pdf) |
@@ -265,6 +266,13 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 | AI for Data Analysis | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/JPFFVOUCL5M7) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/AI%20for%20Data%20Analysis.pdf) |
 | AI for App Building | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/G0V1DSXFKKV3) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/AI%20for%20App%20Building.pdf) |
 | AI for App Deployment | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/XV09CWDDQLCV) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/AI%20for%20App%20Deployment.pdf) |
+
+### Google AI Essentials Track
+
+| Course / Certification Name | Issuer | Date Earned | Credential Link |
+| --- | --- | --- | --- |
+| **Google AI Essentials Specialization** | Google | Nov 17, 2026 | [Verify](https://www.coursera.org/account/accomplishments/specialization/UDCCYAVJ6NFP) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Google%20AI.pdf) |
+| AI Fundamentals | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/VKVCMUMJRG8L) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/AI%20Fundamentals.pdf) |
 
 ### Cisco Cybersecurity Operations Track
 
