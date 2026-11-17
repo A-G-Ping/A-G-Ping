@@ -271,8 +271,12 @@ Here is a high-level summary of the multi-course **Professional Certificates** a
 
 | Course / Certification Name | Issuer | Date Earned | Credential Link |
 | --- | --- | --- | --- |
-| **Google AI Essentials Specialization** | Google | Nov 17, 2026 | [Verify](https://www.coursera.org/account/accomplishments/specialization/UDCCYAVJ6NFP) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Google%20AI.pdf) |
-| AI Fundamentals | Google | Nov 13, 2026 | [Verify](https://coursera.org/verify/VKVCMUMJRG8L) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/AI%20Fundamentals.pdf) |
+| **Google AI Essentials Specialization** | Google | Nov 17, 2026 | [Verify](https://www.coursera.org/account/accomplishments/specialization/W0BBXRGJOEMB) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Google%20AI%20Essentials.pdf) |
+| Introduction to AI | Google | Nov 17, 2026 | [Verify](https://coursera.org/verify/5YLUHBFTOZ99) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Introduction%20to%20AI.pdf) |.
+| Maximize Productivity With AI Tools | Google | Nov 17, 2026 | [Verify](https://coursera.org/verify/4BZJEXNFHS2E) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Maximize%20Productivity%20With%20AI%20Tools.pdf) |
+| Discover the Art of Prompting | Google | Nov 17, 2026 | [Verify](https://coursera.org/verify/B4UVM3KFDAQN) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Discover%20the%20Art%20of%20Prompting.pdf) |
+| Use AI Responsibly | Google | Nov 17, 2026 | [Verify](https://coursera.org/verify/PWWGP0671F75) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Use%20AI%20Responsibly.pdf) |
+| Stay Ahead of the AI Curve | Google | Nov 17, 2026 | [Verify](https://coursera.org/verify/C4HCX723DH81) · [PDF](https://github.com/A-G-Ping/A-G-Ping/blob/main/Stay%20Ahead%20of%20the%20AI%20Curve.pdf) |
 
 ### Cisco Cybersecurity Operations Track
 
